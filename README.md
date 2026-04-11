@@ -24,7 +24,7 @@ Hypergraphs with Time-Varying Node Categories", Applied Network Science in press
 ```
 ## Usage
 ```bash
-python src/main.py
+python main.py
 ```
 
 ## Sample Data
