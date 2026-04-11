@@ -40,10 +40,10 @@ If you use this code in your research, please cite the following paper:
 
 ```bibtex
 @article{yourkey,
-  author  = {著者名},
-  title   = {論文タイトル},
-  journal = {雑誌名},
-  year    = {年},
+  author  = {Masahito Kumano and Koki Nishimura and Masahiro Kimura},
+  title   = {Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories},
+  journal = {Applied Network Science},
+  year    = {2026},
   doi     = {10.xxxx/xxxxxx}
 }
 ```
