@@ -44,7 +44,7 @@ If you use this code in your research, please cite the following paper:
   title   = {Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories},
   journal = {Applied Network Science},
   volume  = {x},
-  page    = {xx:x-xx:x},
+  pages   = {xx:x-xx:x},
   year    = {2026},
   doi     = {10.xxxx/xxxxxx}
 }
