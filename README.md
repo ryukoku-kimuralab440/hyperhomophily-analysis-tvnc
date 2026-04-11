@@ -28,7 +28,12 @@ python src/main.py
 ```
 
 ## Sample Data
-The sample_data/ directory contains sample data for demonstrating how to run the program. The actual datasets used in the experiments are not included in this repository. The Cookpad dataset is available from Cookpad Inc. via IDR Dataset Service of National Institute of Informatics (https://www.nii.ac.jp/dsc/idr/cookpad), subject to licensing restrictions. The Foursquare dataset is available at https://drive.google.com/file/d/1PNk3zY8NjLcDiAbzjABzY5FiPAFHq6T8/view (Yang 2020). For further details, please refer to the Data Availability Statement in the paper.
+The sample_data/ directory contains sample data for demonstrating how to run the program. 
+The actual datasets used in the experiments are not included in this repository. 
+The Cookpad dataset is available from Cookpad Inc. via IDR Dataset Service of National Institute of Informatics 
+(https://www.nii.ac.jp/dsc/idr/cookpad), subject to licensing restrictions. 
+The Foursquare dataset is available at https://drive.google.com/file/d/1PNk3zY8NjLcDiAbzjABzY5FiPAFHq6T8/view (Yang 2020). 
+For further details, please refer to the Data Availability Statement in the paper.
 
 ## Citation
 If you use this code or data, please cite:
