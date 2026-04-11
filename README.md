@@ -16,15 +16,14 @@ Hypergraphs with Time-Varying Node Categories", Applied Network Science in press
 ```
 ├── README.md
 ├── LICENSE
-├── src/
-│   ├── main.py
+├── main.py
 └── sample_data/
     ├── poi_k5.pickle
     └── user_hyperedges_k5.pickle
 ```
 ## Usage
 ```bash
-python src/main.py
+python main.py
 ```
 
 ## License
