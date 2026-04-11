@@ -36,5 +36,14 @@ The Foursquare dataset is available at (https://sites.google.com/site/yangdingqi
 For further details, please refer to the Data Availability Statement in the paper.
 
 ## Citation
-If you use this code or data, please cite:
-<img width="848" height="939" alt="image" src="https://github.com/user-attachments/assets/de06f56c-b758-4324-baf0-7a709b504fd1" />
+If you use this code in your research, please cite the following paper:
+
+```bibtex
+@article{yourkey,
+  author  = {著者名},
+  title   = {論文タイトル},
+  journal = {雑誌名},
+  year    = {年},
+  doi     = {10.xxxx/xxxxxx}
+}
+```
