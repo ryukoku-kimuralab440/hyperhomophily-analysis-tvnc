@@ -1,35 +1,32 @@
 # Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories
 
 ## Overview
-This repository contains the source code and sample data
-used in the following paper:
+This repository contains the source code used in the following paper:
 
-> [著者名], "[論文タイトル]", [雑誌名], [年].
+> Masahito Kumano, Koki Nishimura, and Masahiro Kimura, "Higher-Order Homophily Analysis for
+Hypergraphs with Time-Varying Node Categories", Applied Network Science in press, 2026.
 > DOI: https://doi.org/10.xxxx/xxxxxx
 
 ## Requirements
-- Python 3.x
+- Python 3.13
 - numpy
 - scipy
-- (その他使用しているライブラリ)
 
 ## Repository Structure
 ├── README.md
 ├── LICENSE
 ├── src/
 │   ├── main.py
-│   └── (その他のコードファイル)
 └── sample_data/
-    └── (サンプルデータファイル)
-
+    ├── poi_k5.pickle
+    └── user_hyperedges_k5.pickle
 ## Usage
 ```bash
-python src/main.py --input sample_data/xxx --output results/
+python src/main.py
 ```
 
 ## Sample Data
-The `sample_data/` directory contains the dataset used
-in the experiments described in Section X of the paper.
+The sample_data/ directory contains sample data for demonstrating how to run the program. The actual datasets used in the experiments are not included in this repository. The Cookpad dataset is available from Cookpad Inc. via IDR Dataset Service of National Institute of Informatics (https://www.nii.ac.jp/dsc/idr/cookpad), subject to licensing restrictions. The Foursquare dataset is available at https://drive.google.com/file/d/1PNk3zY8NjLcDiAbzjABzY5FiPAFHq6T8/view (Yang 2020). For further details, please refer to the Data Availability Statement in the paper.
 
 ## Citation
 If you use this code or data, please cite:
