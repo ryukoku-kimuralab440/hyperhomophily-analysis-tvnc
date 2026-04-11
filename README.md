@@ -13,6 +13,7 @@ Hypergraphs with Time-Varying Node Categories", Applied Network Science in press
 - scipy
 
 ## Repository Structure
+"""
 ├── README.md
 ├── LICENSE
 ├── src/
@@ -20,6 +21,7 @@ Hypergraphs with Time-Varying Node Categories", Applied Network Science in press
 └── sample_data/
     ├── poi_k5.pickle
     └── user_hyperedges_k5.pickle
+"""
 ## Usage
 ```bash
 python src/main.py
