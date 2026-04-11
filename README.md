@@ -27,6 +27,9 @@ Hypergraphs with Time-Varying Node Categories", Applied Network Science in press
 python src/main.py
 ```
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Sample Data
 The sample_data/ directory contains sample data for demonstrating how to run the program. 
 The actual datasets used in the experiments are not included in this repository. 
