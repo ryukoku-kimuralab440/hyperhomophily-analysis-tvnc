@@ -9,8 +9,8 @@ Hypergraphs with Time-Varying Node Categories", Applied Network Science in press
 
 ## Requirements
 - Python 3.13
-- numpy
-- scipy
+- numpy 2.3
+- scipy 1.16
 
 ## Repository Structure
 ```
@@ -31,16 +31,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Sample Data
 The sample_data/ directory contains sample data for demonstrating how to run the program. 
-The actual datasets used in the experiments are not included in this repository. 
-The Cookpad dataset is available from Cookpad Inc. via IDR Dataset Service of National Institute of Informatics 
-(https://www.nii.ac.jp/dsc/idr/cookpad), subject to licensing restrictions. 
-The Foursquare dataset is available at (https://sites.google.com/site/yangdingqi/home/foursquare-dataset) (Yang 2020). 
-For further details, please refer to the Data Availability Statement in the paper.
 
 ## Citation
 If you use this code in your research, please cite the following paper:
 
 ```bibtex
+@inproceedings{nishimura2025,
+  author    = {Koki Nishimura and Masahito Kumano and Masahiro Kimura},
+  title     = {Analyzing Higher-Order Homophily of Category Pairs in Temporal Hypergraphs},
+  booktitle = {Proccedngs of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025)},
+  year      = {2025},
+}
+
 @article{yourkey,
   author  = {Masahito Kumano and Koki Nishimura and Masahiro Kimura},
   title   = {Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories},
