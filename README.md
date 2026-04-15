@@ -39,16 +39,17 @@ If you use this code in your research, please cite the following paper:
   author    = {Koki Nishimura and Masahito Kumano and Masahiro Kimura},
   title     = {Analyzing Higher-Order Homophily of Category Pairs in Temporal Hypergraphs},
   booktitle = {Proccedngs of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025)},
+  publisher	= {Springer},
   year      = {2025},
 }
 
 @article{yourkey,
-  author  = {Masahito Kumano and Koki Nishimura and Masahiro Kimura},
-  title   = {Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories},
-  journal = {Applied Network Science},
-  volume  = {x},
-  pages   = {xx:x-xx:x},
-  year    = {2026},
-  doi     = {10.xxxx/xxxxxx}
+  author    = {Masahito Kumano and Koki Nishimura and Masahiro Kimura},
+  title     = {Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories},
+  journal   = {Applied Network Science},
+  volume    = {x},
+  pages     = {xx:x-xx:x},
+  year      = {2026},
+  doi       = {10.xxxx/xxxxxx}
 }
 ```
