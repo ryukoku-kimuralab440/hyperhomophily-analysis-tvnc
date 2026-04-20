@@ -50,6 +50,6 @@ If you use this code in your research, please cite the following paper:
   volume    = {x},
   pages     = {xx:x-xx:x},
   year      = {2026},
-  doi       = {10.xxxx/xxxxxx}
+  doi       = {10.1007/978-3-032-16649-4_26}
 }
 ```
