@@ -1,10 +1,11 @@
 # Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories
 
 ## Overview
-This repository contains the source code used in the following paper:
+This repository contains a Python code used for the higher-order homophily analysis for hypergraphs with time-varying node categories.
 
 > Koki Nishimura, Masahito Kumano and Masahiro Kimura, "Analyzing Higher-Order Homophily of Category Pairs in Temporal Hypergraphs",
-> Proccedngs of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025) in press, 2026.
+> Proccedngs of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025),
+> SCI, Vol.1264, Springer, 2026.
 
 ## Requirements
 - Python 3.13
@@ -30,26 +31,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Sample Data
 The sample_data/ directory contains sample data for demonstrating how to run the program. 
-
-## Citation
-If you use this code in your research, please cite the following paper:
-
-```bibtex
-@inproceedings{nishimura2025,
-  author    = {Koki Nishimura and Masahito Kumano and Masahiro Kimura},
-  title     = {Analyzing Higher-Order Homophily of Category Pairs in Temporal Hypergraphs},
-  booktitle = {Proccedngs of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025)},
-  publisher	= {Springer},
-  year      = {2025},
-}
-
-@article{yourkey,
-  author    = {Masahito Kumano and Koki Nishimura and Masahiro Kimura},
-  title     = {Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories},
-  journal   = {Applied Network Science},
-  volume    = {x},
-  pages     = {xx:x-xx:x},
-  year      = {2026},
-  doi       = {10.1007/978-3-032-16649-4_26}
-}
-```
