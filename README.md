@@ -1,7 +1,7 @@
 # Higher-Order Homophily Analysis for Hypergraphs with Time-Varying Node Categories
 
 ## Overview
-This repository contains a Python code used for the higher-order homophily analysis for hypergraphs with time-varying node categories.
+This repository contains the Python code used for the higher-order homophily analysis for hypergraphs with time-varying node categories.
 
 > Koki Nishimura, Masahito Kumano and Masahiro Kimura, "Analyzing Higher-Order Homophily of Category Pairs in Temporal Hypergraphs",
 > Proccedngs of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025),
