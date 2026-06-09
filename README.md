@@ -6,7 +6,7 @@ This repository contains the Python code used for the higher-order homophily ana
 > Koki Nishimura, Masahito Kumano and Masahiro Kimura, "Analyzing Higher-Order Homophily of Category Pairs in Temporal Hypergraphs",
 > *Proceedings of the Fourteenth International Conference on Complex Networks and their Applications (COMPLEX NETWORKS 2025)*,
 > SCI, Vol.1264, pp.302-314, Springer, 2026.
-> [[Chapter](https://doi.org/10.1007/978-3-032-16649-4_26)] [[Book](https://link.springer.com/book/10.1007/978-3-031-82431-9)]
+> [[DOI](https://doi.org/10.1007/978-3-032-16649-4_26)] [[Book](https://link.springer.com/book/10.1007/978-3-031-82431-9)]
 
 ## Requirements
 - Python 3.13
