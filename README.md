@@ -10,7 +10,7 @@ This repository contains the Python code used for the higher-order homophily ana
 
 > Masahito Kumano, Koki Nishimura and Masahiro Kimura, 
 > "Higher-order homophily analysis for hypergraphs with time-varying node categories", 
-> *Applied Network Science*, 2026.
+> *Applied Network Science*, Springer, 2026.
 > [[DOI](https://doi.org/10.1007/s41109-026-00801-7)] [[Paper](https://link.springer.com/article/10.1007/s41109-026-00801-7)]
 
 ## Requirements
